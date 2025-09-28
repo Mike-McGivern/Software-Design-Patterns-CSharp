@@ -1,0 +1,14 @@
+C:\Users\rimsh\Desktop\Software Eng\C# conversion\BaseBall\baseball\baseball\obj\Debug\net8.0\baseball.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rimsh\Desktop\Software Eng\C# conversion\BaseBall\baseball\baseball\obj\Debug\net8.0\baseball.AssemblyInfoInputs.cache
+C:\Users\rimsh\Desktop\Software Eng\C# conversion\BaseBall\baseball\baseball\obj\Debug\net8.0\baseball.AssemblyInfo.cs
+C:\Users\rimsh\Desktop\Software Eng\C# conversion\BaseBall\baseball\baseball\obj\Debug\net8.0\baseball.csproj.CoreCompileInputs.cache
+C:\Users\rimsh\Desktop\Software Eng\C# conversion\BaseBall\baseball\baseball\bin\Debug\net8.0\baseball.exe
+C:\Users\rimsh\Desktop\Software Eng\C# conversion\BaseBall\baseball\baseball\bin\Debug\net8.0\baseball.deps.json
+C:\Users\rimsh\Desktop\Software Eng\C# conversion\BaseBall\baseball\baseball\bin\Debug\net8.0\baseball.runtimeconfig.json
+C:\Users\rimsh\Desktop\Software Eng\C# conversion\BaseBall\baseball\baseball\bin\Debug\net8.0\baseball.dll
+C:\Users\rimsh\Desktop\Software Eng\C# conversion\BaseBall\baseball\baseball\bin\Debug\net8.0\baseball.pdb
+C:\Users\rimsh\Desktop\Software Eng\C# conversion\BaseBall\baseball\baseball\obj\Debug\net8.0\baseball.dll
+C:\Users\rimsh\Desktop\Software Eng\C# conversion\BaseBall\baseball\baseball\obj\Debug\net8.0\refint\baseball.dll
+C:\Users\rimsh\Desktop\Software Eng\C# conversion\BaseBall\baseball\baseball\obj\Debug\net8.0\baseball.pdb
+C:\Users\rimsh\Desktop\Software Eng\C# conversion\BaseBall\baseball\baseball\obj\Debug\net8.0\baseball.genruntimeconfig.cache
+C:\Users\rimsh\Desktop\Software Eng\C# conversion\BaseBall\baseball\baseball\obj\Debug\net8.0\ref\baseball.dll

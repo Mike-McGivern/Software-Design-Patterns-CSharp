@@ -1,0 +1,4 @@
+C:\Users\rimsh\Desktop\Software Eng\C# conversion\threads\threads\threads\obj\Debug\net8.0\threads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rimsh\Desktop\Software Eng\C# conversion\threads\threads\threads\obj\Debug\net8.0\threads.AssemblyInfoInputs.cache
+C:\Users\rimsh\Desktop\Software Eng\C# conversion\threads\threads\threads\obj\Debug\net8.0\threads.AssemblyInfo.cs
+C:\Users\rimsh\Desktop\Software Eng\C# conversion\threads\threads\threads\obj\Debug\net8.0\threads.csproj.CoreCompileInputs.cache
